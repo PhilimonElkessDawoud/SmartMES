@@ -1,0 +1,17 @@
+D:\Projects\SmartMES\SmartMES.Infrastructure\bin\Debug\net10.0\SmartMES.Infrastructure.deps.json
+D:\Projects\SmartMES\SmartMES.Infrastructure\bin\Debug\net10.0\SmartMES.Infrastructure.dll
+D:\Projects\SmartMES\SmartMES.Infrastructure\bin\Debug\net10.0\SmartMES.Infrastructure.pdb
+D:\Projects\SmartMES\SmartMES.Infrastructure\bin\Debug\net10.0\SmartMES.Application.dll
+D:\Projects\SmartMES\SmartMES.Infrastructure\bin\Debug\net10.0\SmartMES.Domain.dll
+D:\Projects\SmartMES\SmartMES.Infrastructure\bin\Debug\net10.0\SmartMES.Domain.pdb
+D:\Projects\SmartMES\SmartMES.Infrastructure\bin\Debug\net10.0\SmartMES.Application.pdb
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.AssemblyInfo.cs
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.6D087E98.Up2Date
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.dll
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\refint\SmartMES.Infrastructure.dll
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.pdb
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\ref\SmartMES.Infrastructure.dll

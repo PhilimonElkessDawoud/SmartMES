@@ -1,0 +1,11 @@
+D:\Projects\SmartMES\SmartMES.Domain\bin\Debug\net10.0\SmartMES.Domain.deps.json
+D:\Projects\SmartMES\SmartMES.Domain\bin\Debug\net10.0\SmartMES.Domain.dll
+D:\Projects\SmartMES\SmartMES.Domain\bin\Debug\net10.0\SmartMES.Domain.pdb
+D:\Projects\SmartMES\SmartMES.Domain\obj\Debug\net10.0\SmartMES.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SmartMES\SmartMES.Domain\obj\Debug\net10.0\SmartMES.Domain.AssemblyInfoInputs.cache
+D:\Projects\SmartMES\SmartMES.Domain\obj\Debug\net10.0\SmartMES.Domain.AssemblyInfo.cs
+D:\Projects\SmartMES\SmartMES.Domain\obj\Debug\net10.0\SmartMES.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\SmartMES\SmartMES.Domain\obj\Debug\net10.0\SmartMES.Domain.dll
+D:\Projects\SmartMES\SmartMES.Domain\obj\Debug\net10.0\refint\SmartMES.Domain.dll
+D:\Projects\SmartMES\SmartMES.Domain\obj\Debug\net10.0\SmartMES.Domain.pdb
+D:\Projects\SmartMES\SmartMES.Domain\obj\Debug\net10.0\ref\SmartMES.Domain.dll

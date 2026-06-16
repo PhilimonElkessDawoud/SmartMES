@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/SmartMES.IntegrationTests/SmartMES.IntegrationTests.csproj" />
+    <Project Path="tests/SmartMES.UnitTests/SmartMES.UnitTests.csproj" />
+  </Folder>
+  <Project Path="SmartMES.API/SmartMES.API.csproj" />
+  <Project Path="SmartMES.Application/SmartMES.Application.csproj" />
+  <Project Path="SmartMES.Domain/SmartMES.Domain.csproj" />
+  <Project Path="SmartMES.Infrastructure/SmartMES.Infrastructure.csproj" />
+  <Project Path="SmartMES.Simulator/SmartMES.Simulator.csproj" />
+</Solution>

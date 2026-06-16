@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9TFDUjnrRE=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SmartMES\\SmartMES.API\\SmartMES.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
