@@ -16,3 +16,4 @@ D:\Projects\SmartMES\SmartMES.Simulator\obj\Debug\net10.0\refint\SmartMES.Simula
 D:\Projects\SmartMES\SmartMES.Simulator\obj\Debug\net10.0\SmartMES.Simulator.pdb
 D:\Projects\SmartMES\SmartMES.Simulator\obj\Debug\net10.0\SmartMES.Simulator.genruntimeconfig.cache
 D:\Projects\SmartMES\SmartMES.Simulator\obj\Debug\net10.0\ref\SmartMES.Simulator.dll
+D:\Projects\SmartMES\SmartMES.Simulator\obj\Debug\net10.0\SmartMES.Simulator.sourcelink.json

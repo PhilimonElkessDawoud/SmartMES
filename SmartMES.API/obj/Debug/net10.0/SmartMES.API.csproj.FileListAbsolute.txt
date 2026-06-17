@@ -37,3 +37,4 @@ D:\Projects\SmartMES\SmartMES.API\obj\Debug\net10.0\refint\SmartMES.API.dll
 D:\Projects\SmartMES\SmartMES.API\obj\Debug\net10.0\SmartMES.API.pdb
 D:\Projects\SmartMES\SmartMES.API\obj\Debug\net10.0\SmartMES.API.genruntimeconfig.cache
 D:\Projects\SmartMES\SmartMES.API\obj\Debug\net10.0\ref\SmartMES.API.dll
+D:\Projects\SmartMES\SmartMES.API\obj\Debug\net10.0\SmartMES.API.sourcelink.json

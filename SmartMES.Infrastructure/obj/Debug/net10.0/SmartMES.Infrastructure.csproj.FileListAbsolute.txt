@@ -15,3 +15,4 @@ D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastr
 D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\refint\SmartMES.Infrastructure.dll
 D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.pdb
 D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\ref\SmartMES.Infrastructure.dll
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.sourcelink.json

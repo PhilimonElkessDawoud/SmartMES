@@ -112,3 +112,4 @@ D:\Projects\SmartMES\tests\SmartMES.IntegrationTests\obj\Debug\net10.0\refint\Sm
 D:\Projects\SmartMES\tests\SmartMES.IntegrationTests\obj\Debug\net10.0\SmartMES.IntegrationTests.pdb
 D:\Projects\SmartMES\tests\SmartMES.IntegrationTests\obj\Debug\net10.0\SmartMES.IntegrationTests.genruntimeconfig.cache
 D:\Projects\SmartMES\tests\SmartMES.IntegrationTests\obj\Debug\net10.0\ref\SmartMES.IntegrationTests.dll
+D:\Projects\SmartMES\tests\SmartMES.IntegrationTests\obj\Debug\net10.0\SmartMES.IntegrationTests.sourcelink.json
