@@ -16,3 +16,5 @@ D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\refint\SmartMES.I
 D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.pdb
 D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\ref\SmartMES.Infrastructure.dll
 D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.sourcelink.json
+D:\Projects\SmartMES\SmartMES.Infrastructure\bin\Debug\net10.0\SmartMES.Infrastructure.runtimeconfig.json
+D:\Projects\SmartMES\SmartMES.Infrastructure\obj\Debug\net10.0\SmartMES.Infrastructure.genruntimeconfig.cache
