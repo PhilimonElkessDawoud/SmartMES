@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartMES.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d49ac9b01ee52f613335b517115da5cc4cf7caa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81424003d0102e92e5dbd26db75e9ce9683f7c32")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartMES.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartMES.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
