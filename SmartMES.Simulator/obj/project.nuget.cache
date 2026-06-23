@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CqJkIaeNmFI=",
+  "dgSpecHash": "38abFSWJwtg=",
   "success": true,
   "projectFilePath": "D:\\Projects\\SmartMES\\SmartMES.Simulator\\SmartMES.Simulator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\confluent.kafka\\2.14.2\\confluent.kafka.2.14.2.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\librdkafka.redist\\2.14.2\\librdkafka.redist.2.14.2.nupkg.sha512"
+  ],
   "logs": []
 }
