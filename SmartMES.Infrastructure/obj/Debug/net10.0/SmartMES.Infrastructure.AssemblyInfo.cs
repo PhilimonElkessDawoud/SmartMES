@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartMES.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81424003d0102e92e5dbd26db75e9ce9683f7c32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e77dd4bd7b6ea33b211a30ace2d8e44341ff1ca3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartMES.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartMES.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
