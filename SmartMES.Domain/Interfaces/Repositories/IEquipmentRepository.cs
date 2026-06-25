@@ -9,4 +9,5 @@ public interface IEquipmentRepository
     Task<IEnumerable<Equipment>> GetByProductionLineIdAsync(int productionLineId);
     Task AddAsync(Equipment equipment);
     Task UpdateAsync(Equipment equipment);
+    Task DeleteAsync(int id);
 }
