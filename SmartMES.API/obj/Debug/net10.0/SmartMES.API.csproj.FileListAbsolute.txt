@@ -193,3 +193,4 @@ D:\Projects\SmartMES\SmartMES.API\bin\Debug\net10.0\runtimes\win-x86\native\msvc
 D:\Projects\SmartMES\SmartMES.API\bin\Debug\net10.0\runtimes\win-x86\native\vcruntime140.dll
 D:\Projects\SmartMES\SmartMES.API\bin\Debug\net10.0\runtimes\win-x86\native\z.dll
 D:\Projects\SmartMES\SmartMES.API\bin\Debug\net10.0\runtimes\win-x86\native\zstd.dll
+D:\Projects\SmartMES\SmartMES.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
