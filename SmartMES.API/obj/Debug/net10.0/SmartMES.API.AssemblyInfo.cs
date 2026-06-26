@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartMES.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aade8422c249bea42955513c89bea0b971b9f4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb492a9edc081e90d4d2352601c0cf84b7fb871")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartMES.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartMES.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

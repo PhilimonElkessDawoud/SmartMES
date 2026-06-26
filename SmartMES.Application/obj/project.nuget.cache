@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wp5HKKE703g=",
+  "dgSpecHash": "Yqq/I2VfILw=",
   "success": true,
   "projectFilePath": "D:\\Projects\\SmartMES\\SmartMES.Application\\SmartMES.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.9\\microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

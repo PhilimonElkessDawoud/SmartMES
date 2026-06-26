@@ -101,3 +101,5 @@ D:\Projects\SmartMES\tests\SmartMES.UnitTests\obj\Debug\net10.0\SmartMES.UnitTes
 D:\Projects\SmartMES\tests\SmartMES.UnitTests\obj\Debug\net10.0\SmartMES.UnitTests.genruntimeconfig.cache
 D:\Projects\SmartMES\tests\SmartMES.UnitTests\obj\Debug\net10.0\ref\SmartMES.UnitTests.dll
 D:\Projects\SmartMES\tests\SmartMES.UnitTests\obj\Debug\net10.0\SmartMES.UnitTests.sourcelink.json
+D:\Projects\SmartMES\tests\SmartMES.UnitTests\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\SmartMES\tests\SmartMES.UnitTests\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
