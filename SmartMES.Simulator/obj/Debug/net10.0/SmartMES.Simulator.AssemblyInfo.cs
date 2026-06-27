@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartMES.Simulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb492a9edc081e90d4d2352601c0cf84b7fb871")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7cf954abe7942222bffea4c5924694223163f60")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartMES.Simulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartMES.Simulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,16 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IProductionLineRepository, ProductionLineRepository>();
 builder.Services.AddScoped<IEquipmentRepository, EquipmentRepository>();
 builder.Services.AddScoped<ISensorRepository, SensorRepository>();
+builder.Services.AddScoped<IAlertRuleRepository, AlertRuleRepository>();
+builder.Services.AddScoped<IAlertRepository, AlertRepository>();
 
 // Services
 builder.Services.AddScoped<IProductionLineService, ProductionLineService>();
 builder.Services.AddScoped<IEquipmentService, EquipmentService>();
 builder.Services.AddScoped<ISensorAppService, SensorAppService>();
+builder.Services.AddScoped<IAlertRuleService, AlertRuleService>();
+builder.Services.AddScoped<IAlertService, AlertService>();
+builder.Services.AddScoped<IAlertEvaluationService, AlertEvaluationService>();
 
 // Kafka Consumer (background service)
 builder.Services.AddHostedService<SmartMES.Infrastructure.Kafka.Consumer.SensorReadingConsumer>();

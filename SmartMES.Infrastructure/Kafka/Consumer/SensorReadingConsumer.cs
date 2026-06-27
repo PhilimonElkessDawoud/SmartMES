@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using SmartMES.Application.Interfaces;
 using SmartMES.Domain.Entities;
 using SmartMES.Infrastructure.Data;
 using System.Text.Json;
@@ -51,6 +52,7 @@ public class SensorReadingConsumer : BackgroundService
 
                 using var scope = _scopeFactory.CreateScope();
                 var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+                var alertEvaluationService = scope.ServiceProvider.GetRequiredService<IAlertEvaluationService>();
 
                 var sensorExists = await dbContext.Sensors.AnyAsync(s => s.Id == data.SensorId, stoppingToken);
 
@@ -71,6 +73,9 @@ public class SensorReadingConsumer : BackgroundService
                 await dbContext.SaveChangesAsync(stoppingToken);
 
                 _logger.LogInformation("Saved reading: SensorId={SensorId}, Value={Value}", data.SensorId, data.Value);
+
+                // Evaluate alert rules against this reading
+                await alertEvaluationService.EvaluateReadingAsync(reading);
             }
             catch (OperationCanceledException)
             {

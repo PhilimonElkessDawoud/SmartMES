@@ -20,7 +20,7 @@ while (true)
         var reading = new
         {
             SensorId = sensorId,
-            Value = Math.Round(20 + random.NextDouble() * 60, 2), // Simulates 20-80 range
+            Value = Math.Round(20 + random.NextDouble() * 60, 2), //  Simulates 20-80 range
             RecordedAt = DateTime.UtcNow
         };
 
